@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.twitter:chill-hadoop:0.3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/chill-hadoop/jars/chill-hadoop-0.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/chill-hadoop/docs/chill-hadoop-0.3.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/chill-hadoop/srcs/chill-hadoop-0.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

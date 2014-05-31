@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: com.twitter:bijection-core_2.10:0.6.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/bijection-core_2.10/jars/bijection-core_2.10-0.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/bijection-core_2.10/docs/bijection-core_2.10-0.6.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.twitter/bijection-core_2.10/srcs/bijection-core_2.10-0.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
